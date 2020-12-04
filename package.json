@@ -1,0 +1,19 @@
+{
+  "name": "platcomsoc",
+  "version": "1.0.0",
+  "description": "Plataforma de Comunicacion Social San Juan",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lowa-softwaredev/plataforma-comunicacion-social.git"
+  },
+  "author": "Lowa - Software Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lowa-softwaredev/plataforma-comunicacion-social/issues"
+  },
+  "homepage": "https://github.com/lowa-softwaredev/plataforma-comunicacion-social#readme"
+}
